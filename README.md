@@ -1,4 +1,4 @@
-# Todo App
+# To-Do App
 
 A simple and elegant Todo App built using React, Vite, and localStorage for persistence. This project demonstrates basic CRUD operations and state management in a React application.
 
